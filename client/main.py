@@ -2,7 +2,6 @@ import numpy as np
 import cv2
 import pyscreenshot as ImageGrab
 import math
-import matplotlib.pyplot as plt
 from time import sleep
 from socketIO_client import SocketIO, LoggingNamespace
 
